@@ -49,3 +49,7 @@ Not at all!  demoncoin is intentionally developed as a coin that has allmost no 
 Use demoncoins with other members, mine demoncoins, run nodes, come up with fun ways to use the demoncoins, make a demoncoin casino???, whatever you wanna do with it!
 
 Also, Any assistance in getting miner scripts writen, nodes set up, etc. are greatly appreciated. 
+
+## Block Explorer
+There is now a node with a block explorer at http://coinexplore.demonbucket.com/
+Node IP: 159.203.76.146
