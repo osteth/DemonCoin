@@ -1,0 +1,9 @@
+Building DemonCoin
+
+See doc/readme-qt.rst for instructions on building DemonCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DemonCoin.
+
+See doc/build-*.txt for instructions on building DemonCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DemonCoin.
