@@ -53,3 +53,6 @@ Also, Any assistance in getting miner scripts writen, nodes set up, etc. are gre
 ## Block Explorer
 There is now a node with a block explorer at http://coinexplore.demonbucket.com/
 Node IP: 159.203.76.146
+
+## Mining Pool
+pool.demonbucket.com
